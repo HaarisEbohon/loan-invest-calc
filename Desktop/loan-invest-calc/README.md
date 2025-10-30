@@ -14,6 +14,8 @@ A simple Python project by **Haaris** that calculates:
 ```powershell
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
-
+📬 Contact
+Haaris Ebohon  
+📧 haarisebohon1@gmail.com
 
 
